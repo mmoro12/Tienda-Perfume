@@ -1,0 +1,11 @@
+.color-principal {color: black;};
+.color-segundo{color: red;};
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    }
+
+.color-fondo{background-color: black;};
